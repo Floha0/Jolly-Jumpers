@@ -1,0 +1,56 @@
+# Binaries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Compiled dynamic libraries
+*.dylib
+*.so
+*.dll
+
+# Debug files
+*.pdb
+*.log
+*.tmp
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.csproj
+*.user
+*.aps
+*.ncb
+*.suo
+*.cache
+*.log
+*.pyc
+
+# Mac specific
+.DS_Store
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Temporary files
+*~
